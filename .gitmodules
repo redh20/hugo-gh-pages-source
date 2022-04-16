@@ -1,0 +1,12 @@
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/gochowdown"]
+	path = themes/gochowdown
+	url = https://github.com/seanlane/gochowdown.git
+[submodule "themes/freshstart"]
+	path = themes/freshstart
+	url = https://github.com/rz3n/hugo-theme-freshstart.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
