@@ -1,0 +1,4 @@
+baseURL = 'http://ed.mesihe.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site By Ed M'
+theme = "ananke"
